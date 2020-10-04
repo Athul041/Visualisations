@@ -1,4 +1,4 @@
-#Custom Visualisations
+## Custom Visualisations
 
 How does the GDP per Capita of a country affect the general happiness of its citizens?
 
@@ -10,10 +10,10 @@ The visualisation provides a scatter plot with shoes the distribution of GHI sco
 
 Datasets:
 GDP Per Capita 2019:
-https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2019&most_recent_value_desc=true&start=20...
+https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2019&most_recent_value_desc=true&start=20...<br>
 World Happiness Index 2019:
-https://www.kaggle.com/mathurinache/world-happiness-report?select=2019.csv
+https://www.kaggle.com/mathurinache/world-happiness-report?select=2019.csv<br>
 Countries by regions:
-https://meta.wikimedia.org/wiki/List_of_countries_by_regional_classification
+https://meta.wikimedia.org/wiki/List_of_countries_by_regional_classification<br>
 
 The project uses matplotlib along side seaborn to create a scatterplot and a density plot which shows the desnity of COuntries per region shown in the Scatter plot.
